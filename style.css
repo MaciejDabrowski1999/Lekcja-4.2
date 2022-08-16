@@ -4,4 +4,11 @@ body {
 h1 {
     color: red;
     font-size: 32px;
+    margin: 20px;
+    padding-bottom: 50px;
+}
+p {
+    font-size: 40px;
+    margin-left: 200px;
+    font-style: italic;
 }
